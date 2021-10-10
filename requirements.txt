@@ -1,0 +1,2 @@
+u need this module for the spotify API
+requests==2.26.0
